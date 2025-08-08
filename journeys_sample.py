@@ -1,0 +1,1 @@
+options = {"Add A New Journey":0,"Horishma":10000,"Hiroshima":20000,"Sanghai":15000,"Petalam":26630}
